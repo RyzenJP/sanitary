@@ -1,0 +1,26 @@
+# Deny direct access to AI files and models
+# Only allow access through PHP backend
+
+# Deny access to Python scripts
+<Files ~ "\.(py|pyc)$">
+    Order allow,deny
+    Deny from all
+</Files>
+
+# Deny access to model files
+<Files ~ "\.(pkl|csv|json)$">
+    Order allow,deny
+    Deny from all
+</Files>
+
+# Deny directory listing
+Options -Indexes
+
+# Allow only from localhost (development)
+Order Deny,Allow
+Deny from all
+Allow from 127.0.0.1
+Allow from ::1
+Allow from localhost
+
+

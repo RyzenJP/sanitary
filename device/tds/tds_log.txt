@@ -1,0 +1,3363 @@
+2025-08-22 13:01:44 - Array
+(
+    [tds_value] => 82.34
+    [analog_value] => 252
+    [voltage] => 0.203
+    [temperature] => 25.0
+)
+
+2025-08-22 13:01:52 - Array
+(
+    [tds_value] => 78.92
+    [analog_value] => 241
+    [voltage] => 0.194
+    [temperature] => 25.0
+)
+
+2025-08-22 13:02:13 - Array
+(
+    [tds_value] => 96.19
+    [analog_value] => 297
+    [voltage] => 0.239
+    [temperature] => 25.0
+)
+
+2025-08-22 13:02:39 - Array
+(
+    [tds_value] => 83.58
+    [analog_value] => 256
+    [voltage] => 0.206
+    [temperature] => 25.0
+)
+
+2025-08-22 13:03:39 - Array
+(
+    [tds_value] => 96.50
+    [analog_value] => 298
+    [voltage] => 0.240
+    [temperature] => 25.0
+)
+
+2025-08-22 13:03:51 - Array
+(
+    [tds_value] => 93.13
+    [analog_value] => 287
+    [voltage] => 0.231
+    [temperature] => 25.0
+)
+
+2025-08-22 13:04:07 - Array
+(
+    [tds_value] => 76.43
+    [analog_value] => 233
+    [voltage] => 0.188
+    [temperature] => 25.0
+)
+
+2025-08-22 13:04:18 - Array
+(
+    [tds_value] => 76.74
+    [analog_value] => 234
+    [voltage] => 0.189
+    [temperature] => 25.0
+)
+
+2025-08-22 13:04:28 - Array
+(
+    [tds_value] => 73.92
+    [analog_value] => 225
+    [voltage] => 0.181
+    [temperature] => 25.0
+)
+
+2025-08-22 13:04:53 - Array
+(
+    [tds_value] => 72.04
+    [analog_value] => 219
+    [voltage] => 0.176
+    [temperature] => 25.0
+)
+
+2025-08-22 13:05:29 - Array
+(
+    [tds_value] => 92.52
+    [analog_value] => 285
+    [voltage] => 0.230
+    [temperature] => 25.0
+)
+
+2025-08-22 13:05:46 - Array
+(
+)
+
+2025-08-22 13:05:49 - Array
+(
+    [tds_value] => 85.75
+    [analog_value] => 263
+    [voltage] => 0.212
+    [temperature] => 25.0
+)
+
+2025-08-22 13:06:09 - Array
+(
+    [tds_value] => 67.31
+    [analog_value] => 204
+    [voltage] => 0.164
+    [temperature] => 25.0
+)
+
+2025-08-22 13:09:33 - Array
+(
+    [tds_value] => 155.75
+    [analog_value] => 498
+    [voltage] => 0.401
+    [temperature] => 25.0
+)
+
+2025-08-22 13:11:13 - Array
+(
+    [tds_value] => 105.91
+    [analog_value] => 329
+    [voltage] => 0.265
+    [temperature] => 25.0
+)
+
+2025-08-22 13:11:36 - Array
+(
+    [tds_value] => 109.23
+    [analog_value] => 340
+    [voltage] => 0.274
+    [temperature] => 25.0
+)
+
+2025-08-22 13:12:04 - Array
+(
+    [tds_value] => 85.75
+    [analog_value] => 263
+    [voltage] => 0.212
+    [temperature] => 25.0
+)
+
+2025-08-22 13:12:36 - Array
+(
+    [tds_value] => 96.80
+    [analog_value] => 299
+    [voltage] => 0.241
+    [temperature] => 25.0
+)
+
+2025-08-22 13:13:05 - Array
+(
+    [tds_value] => 101.06
+    [analog_value] => 313
+    [voltage] => 0.252
+    [temperature] => 25.0
+)
+
+2025-08-22 13:13:28 - Array
+(
+    [tds_value] => 114.33
+    [analog_value] => 357
+    [voltage] => 0.288
+    [temperature] => 25.0
+)
+
+2025-08-22 13:13:59 - Array
+(
+    [tds_value] => 105.31
+    [analog_value] => 327
+    [voltage] => 0.264
+    [temperature] => 25.0
+)
+
+2025-08-22 13:14:24 - Array
+(
+    [tds_value] => 95.58
+    [analog_value] => 295
+    [voltage] => 0.238
+    [temperature] => 25.0
+)
+
+2025-08-22 13:15:28 - Array
+(
+    [tds_value] => 110.13
+    [analog_value] => 343
+    [voltage] => 0.276
+    [temperature] => 25.0
+)
+
+2025-08-22 14:08:34 - Array
+(
+    [tds_value] => 127.42
+    [analog_value] => 401
+    [voltage] => 0.323
+    [temperature] => 25.0
+)
+
+2025-08-22 14:08:51 - Array
+(
+    [tds_value] => 176.39
+    [analog_value] => 570
+    [voltage] => 0.459
+    [temperature] => 25.0
+)
+
+2025-08-22 14:09:12 - Array
+(
+    [tds_value] => 128.61
+    [analog_value] => 405
+    [voltage] => 0.326
+    [temperature] => 25.0
+)
+
+2025-08-22 14:09:39 - Array
+(
+    [tds_value] => 111.93
+    [analog_value] => 349
+    [voltage] => 0.281
+    [temperature] => 25.0
+)
+
+2025-08-22 14:10:02 - Array
+(
+    [tds_value] => 154.02
+    [analog_value] => 492
+    [voltage] => 0.396
+    [temperature] => 25.0
+)
+
+2025-08-22 14:10:23 - Array
+(
+    [tds_value] => 142.99
+    [analog_value] => 454
+    [voltage] => 0.366
+    [temperature] => 25.0
+)
+
+2025-08-22 14:10:45 - Array
+(
+    [tds_value] => 136.55
+    [analog_value] => 432
+    [voltage] => 0.348
+    [temperature] => 25.0
+)
+
+2025-08-22 14:11:09 - Array
+(
+    [tds_value] => 106.21
+    [analog_value] => 330
+    [voltage] => 0.266
+    [temperature] => 25.0
+)
+
+2025-08-22 14:11:31 - Array
+(
+    [tds_value] => 106.51
+    [analog_value] => 331
+    [voltage] => 0.267
+    [temperature] => 25.0
+)
+
+2025-08-22 14:12:24 - Array
+(
+    [tds_value] => 105.61
+    [analog_value] => 328
+    [voltage] => 0.264
+    [temperature] => 25.0
+)
+
+2025-08-22 14:12:54 - Array
+(
+    [tds_value] => 96.19
+    [analog_value] => 297
+    [voltage] => 0.239
+    [temperature] => 25.0
+)
+
+2025-08-22 14:13:21 - Array
+(
+    [tds_value] => 104.10
+    [analog_value] => 323
+    [voltage] => 0.260
+    [temperature] => 25.0
+)
+
+2025-08-22 14:13:47 - Array
+(
+    [tds_value] => 110.13
+    [analog_value] => 343
+    [voltage] => 0.276
+    [temperature] => 25.0
+)
+
+2025-08-22 14:14:11 - Array
+(
+    [tds_value] => 100.76
+    [analog_value] => 312
+    [voltage] => 0.251
+    [temperature] => 25.0
+)
+
+2025-08-22 14:14:34 - Array
+(
+    [tds_value] => 89.75
+    [analog_value] => 276
+    [voltage] => 0.222
+    [temperature] => 25.0
+)
+
+2025-08-22 14:15:01 - Array
+(
+    [tds_value] => 96.19
+    [analog_value] => 297
+    [voltage] => 0.239
+    [temperature] => 25.0
+)
+
+2025-08-22 14:15:24 - Array
+(
+    [tds_value] => 170.40
+    [analog_value] => 549
+    [voltage] => 0.442
+    [temperature] => 25.0
+)
+
+2025-08-22 14:15:49 - Array
+(
+    [tds_value] => 118.22
+    [analog_value] => 370
+    [voltage] => 0.298
+    [temperature] => 25.0
+)
+
+2025-08-22 14:16:12 - Array
+(
+    [tds_value] => 109.23
+    [analog_value] => 340
+    [voltage] => 0.274
+    [temperature] => 25.0
+)
+
+2025-08-22 14:16:54 - Array
+(
+    [tds_value] => 107.42
+    [analog_value] => 334
+    [voltage] => 0.269
+    [temperature] => 25.0
+)
+
+2025-08-22 14:17:18 - Array
+(
+    [tds_value] => 153.73
+    [analog_value] => 491
+    [voltage] => 0.396
+    [temperature] => 25.0
+)
+
+2025-08-22 14:17:39 - Array
+(
+    [tds_value] => 112.23
+    [analog_value] => 350
+    [voltage] => 0.282
+    [temperature] => 25.0
+)
+
+2025-08-22 14:18:39 - Array
+(
+    [tds_value] => 121.49
+    [analog_value] => 381
+    [voltage] => 0.307
+    [temperature] => 25.0
+)
+
+2025-08-22 14:19:01 - Array
+(
+    [tds_value] => 115.53
+    [analog_value] => 361
+    [voltage] => 0.291
+    [temperature] => 25.0
+)
+
+2025-08-22 14:19:23 - Array
+(
+    [tds_value] => 106.51
+    [analog_value] => 331
+    [voltage] => 0.267
+    [temperature] => 25.0
+)
+
+2025-08-22 14:19:45 - Array
+(
+    [tds_value] => 125.35
+    [analog_value] => 394
+    [voltage] => 0.318
+    [temperature] => 25.0
+)
+
+2025-08-22 14:20:11 - Array
+(
+    [tds_value] => 125.35
+    [analog_value] => 394
+    [voltage] => 0.318
+    [temperature] => 25.0
+)
+
+2025-08-22 14:20:36 - Array
+(
+    [tds_value] => 112.83
+    [analog_value] => 352
+    [voltage] => 0.284
+    [temperature] => 25.0
+)
+
+2025-08-22 14:20:58 - Array
+(
+    [tds_value] => 120.01
+    [analog_value] => 376
+    [voltage] => 0.303
+    [temperature] => 25.0
+)
+
+2025-08-22 14:21:20 - Array
+(
+    [tds_value] => 109.23
+    [analog_value] => 340
+    [voltage] => 0.274
+    [temperature] => 25.0
+)
+
+2025-08-22 14:21:42 - Array
+(
+    [tds_value] => 133.62
+    [analog_value] => 422
+    [voltage] => 0.340
+    [temperature] => 25.0
+)
+
+2025-08-22 14:22:06 - Array
+(
+    [tds_value] => 121.49
+    [analog_value] => 381
+    [voltage] => 0.307
+    [temperature] => 25.0
+)
+
+2025-08-22 14:22:28 - Array
+(
+    [tds_value] => 115.83
+    [analog_value] => 362
+    [voltage] => 0.292
+    [temperature] => 25.0
+)
+
+2025-08-22 14:22:53 - Array
+(
+    [tds_value] => 111.33
+    [analog_value] => 347
+    [voltage] => 0.280
+    [temperature] => 25.0
+)
+
+2025-08-22 14:23:19 - Array
+(
+    [tds_value] => 82.96
+    [analog_value] => 254
+    [voltage] => 0.205
+    [temperature] => 25.0
+)
+
+2025-08-22 14:23:40 - Array
+(
+    [tds_value] => 96.19
+    [analog_value] => 297
+    [voltage] => 0.239
+    [temperature] => 25.0
+)
+
+2025-08-22 14:24:02 - Array
+(
+    [tds_value] => 82.65
+    [analog_value] => 253
+    [voltage] => 0.204
+    [temperature] => 25.0
+)
+
+2025-08-22 14:24:24 - Array
+(
+    [tds_value] => 93.44
+    [analog_value] => 288
+    [voltage] => 0.232
+    [temperature] => 25.0
+)
+
+2025-08-22 14:24:45 - Array
+(
+    [tds_value] => 97.72
+    [analog_value] => 302
+    [voltage] => 0.243
+    [temperature] => 25.0
+)
+
+2025-08-22 14:25:07 - Array
+(
+    [tds_value] => 90.37
+    [analog_value] => 278
+    [voltage] => 0.224
+    [temperature] => 25.0
+)
+
+2025-08-22 14:25:28 - Array
+(
+    [tds_value] => 105.91
+    [analog_value] => 329
+    [voltage] => 0.265
+    [temperature] => 25.0
+)
+
+2025-08-22 14:25:53 - Array
+(
+    [tds_value] => 123.87
+    [analog_value] => 389
+    [voltage] => 0.313
+    [temperature] => 25.0
+)
+
+2025-08-22 14:26:17 - Array
+(
+    [tds_value] => 99.85
+    [analog_value] => 309
+    [voltage] => 0.249
+    [temperature] => 25.0
+)
+
+2025-08-22 14:26:42 - Array
+(
+    [tds_value] => 93.44
+    [analog_value] => 288
+    [voltage] => 0.232
+    [temperature] => 25.0
+)
+
+2025-08-22 14:27:44 - Array
+(
+    [tds_value] => 85.44
+    [analog_value] => 262
+    [voltage] => 0.211
+    [temperature] => 25.0
+)
+
+2025-08-22 14:28:05 - Array
+(
+    [tds_value] => 86.98
+    [analog_value] => 267
+    [voltage] => 0.215
+    [temperature] => 25.0
+)
+
+2025-08-22 14:28:27 - Array
+(
+    [tds_value] => 91.91
+    [analog_value] => 283
+    [voltage] => 0.228
+    [temperature] => 25.0
+)
+
+2025-08-22 14:28:48 - Array
+(
+    [tds_value] => 67.00
+    [analog_value] => 203
+    [voltage] => 0.164
+    [temperature] => 25.0
+)
+
+2025-08-22 14:29:10 - Array
+(
+    [tds_value] => 88.83
+    [analog_value] => 273
+    [voltage] => 0.220
+    [temperature] => 25.0
+)
+
+2025-08-22 14:30:09 - Array
+(
+    [tds_value] => 68.89
+    [analog_value] => 209
+    [voltage] => 0.168
+    [temperature] => 25.0
+)
+
+2025-08-22 14:30:35 - Array
+(
+    [tds_value] => 68.26
+    [analog_value] => 207
+    [voltage] => 0.167
+    [temperature] => 25.0
+)
+
+2025-08-22 14:31:04 - Array
+(
+    [tds_value] => 88.83
+    [analog_value] => 273
+    [voltage] => 0.220
+    [temperature] => 25.0
+)
+
+2025-08-22 14:31:26 - Array
+(
+    [tds_value] => 78.30
+    [analog_value] => 239
+    [voltage] => 0.193
+    [temperature] => 25.0
+)
+
+2025-08-22 14:31:47 - Array
+(
+    [tds_value] => 77.99
+    [analog_value] => 238
+    [voltage] => 0.192
+    [temperature] => 25.0
+)
+
+2025-08-22 14:32:09 - Array
+(
+    [tds_value] => 72.67
+    [analog_value] => 221
+    [voltage] => 0.178
+    [temperature] => 25.0
+)
+
+2025-08-22 14:32:30 - Array
+(
+    [tds_value] => 80.17
+    [analog_value] => 245
+    [voltage] => 0.197
+    [temperature] => 25.0
+)
+
+2025-08-22 14:32:55 - Array
+(
+    [tds_value] => 132.73
+    [analog_value] => 419
+    [voltage] => 0.338
+    [temperature] => 25.0
+)
+
+2025-08-22 14:33:17 - Array
+(
+    [tds_value] => 133.03
+    [analog_value] => 420
+    [voltage] => 0.338
+    [temperature] => 25.0
+)
+
+2025-08-22 14:35:40 - Array
+(
+    [tds_value] => 140.94
+    [analog_value] => 447
+    [voltage] => 0.360
+    [temperature] => 25.0
+)
+
+2025-08-22 14:36:02 - Array
+(
+    [tds_value] => 76.74
+    [analog_value] => 234
+    [voltage] => 0.189
+    [temperature] => 25.0
+)
+
+2025-08-22 14:36:23 - Array
+(
+    [tds_value] => 50.07
+    [analog_value] => 150
+    [voltage] => 0.121
+    [temperature] => 25.0
+)
+
+2025-08-22 14:36:44 - Array
+(
+    [tds_value] => 48.13
+    [analog_value] => 144
+    [voltage] => 0.116
+    [temperature] => 25.0
+)
+
+2025-08-22 14:37:11 - Array
+(
+    [tds_value] => 49.75
+    [analog_value] => 149
+    [voltage] => 0.120
+    [temperature] => 25.0
+)
+
+2025-08-22 14:37:37 - Array
+(
+    [tds_value] => 44.56
+    [analog_value] => 133
+    [voltage] => 0.107
+    [temperature] => 25.0
+)
+
+2025-08-22 14:38:01 - Array
+(
+    [tds_value] => 47.48
+    [analog_value] => 142
+    [voltage] => 0.114
+    [temperature] => 25.0
+)
+
+2025-08-22 14:38:29 - Array
+(
+    [tds_value] => 44.89
+    [analog_value] => 134
+    [voltage] => 0.108
+    [temperature] => 25.0
+)
+
+2025-08-22 14:38:51 - Array
+(
+    [tds_value] => 43.58
+    [analog_value] => 130
+    [voltage] => 0.105
+    [temperature] => 25.0
+)
+
+2025-08-22 14:39:15 - Array
+(
+    [tds_value] => 59.70
+    [analog_value] => 180
+    [voltage] => 0.145
+    [temperature] => 25.0
+)
+
+2025-08-22 14:39:39 - Array
+(
+    [tds_value] => 101.37
+    [analog_value] => 314
+    [voltage] => 0.253
+    [temperature] => 25.0
+)
+
+2025-08-22 14:58:16 - Array
+(
+    [tds_value] => 94.36
+    [analog_value] => 291
+    [voltage] => 0.235
+    [temperature] => 25.0
+)
+
+2025-08-22 14:58:52 - Array
+(
+    [tds_value] => 88.83
+    [analog_value] => 273
+    [voltage] => 0.220
+    [temperature] => 25.0
+)
+
+2025-08-27 22:27:29 - Array
+(
+)
+
+2025-08-27 22:27:30 - Array
+(
+)
+
+2025-08-28 10:21:56 - Array
+(
+    [tds_value] => 146.48
+    [analog_value] => 466
+    [voltage] => 0.376
+    [temperature] => 25.0
+)
+
+2025-08-28 10:22:25 - Array
+(
+    [tds_value] => 177.81
+    [analog_value] => 575
+    [voltage] => 0.463
+    [temperature] => 25.0
+)
+
+2025-08-28 10:22:55 - Array
+(
+    [tds_value] => 166.97
+    [analog_value] => 537
+    [voltage] => 0.433
+    [temperature] => 25.0
+)
+
+2025-08-28 10:23:25 - Array
+(
+    [tds_value] => 154.60
+    [analog_value] => 494
+    [voltage] => 0.398
+    [temperature] => 25.0
+)
+
+2025-08-28 10:23:55 - Array
+(
+    [tds_value] => 208.88
+    [analog_value] => 685
+    [voltage] => 0.552
+    [temperature] => 25.0
+)
+
+2025-08-28 10:24:27 - Array
+(
+    [tds_value] => 223.46
+    [analog_value] => 737
+    [voltage] => 0.594
+    [temperature] => 25.0
+)
+
+2025-08-28 10:24:56 - Array
+(
+    [tds_value] => 209.17
+    [analog_value] => 686
+    [voltage] => 0.553
+    [temperature] => 25.0
+)
+
+2025-08-28 10:25:25 - Array
+(
+    [tds_value] => 222.34
+    [analog_value] => 733
+    [voltage] => 0.591
+    [temperature] => 25.0
+)
+
+2025-08-28 10:25:56 - Array
+(
+    [tds_value] => 188.31
+    [analog_value] => 612
+    [voltage] => 0.493
+    [temperature] => 25.0
+)
+
+2025-08-28 10:26:26 - Array
+(
+    [tds_value] => 128.31
+    [analog_value] => 404
+    [voltage] => 0.326
+    [temperature] => 25.0
+)
+
+2025-08-28 10:26:56 - Array
+(
+    [tds_value] => 122.39
+    [analog_value] => 384
+    [voltage] => 0.309
+    [temperature] => 25.0
+)
+
+2025-08-28 10:27:07 - Array
+(
+)
+
+2025-08-28 10:27:26 - Array
+(
+    [tds_value] => 181.51
+    [analog_value] => 588
+    [voltage] => 0.474
+    [temperature] => 25.0
+)
+
+2025-08-28 10:27:56 - Array
+(
+    [tds_value] => 138.31
+    [analog_value] => 438
+    [voltage] => 0.353
+    [temperature] => 25.0
+)
+
+2025-08-28 10:28:26 - Array
+(
+    [tds_value] => 199.32
+    [analog_value] => 651
+    [voltage] => 0.525
+    [temperature] => 25.0
+)
+
+2025-08-28 10:28:56 - Array
+(
+    [tds_value] => 132.15
+    [analog_value] => 417
+    [voltage] => 0.336
+    [temperature] => 25.0
+)
+
+2025-08-28 10:29:25 - Array
+(
+)
+
+2025-08-28 10:29:26 - Array
+(
+    [tds_value] => 199.04
+    [analog_value] => 650
+    [voltage] => 0.524
+    [temperature] => 25.0
+)
+
+2025-08-28 10:29:56 - Array
+(
+    [tds_value] => 126.83
+    [analog_value] => 399
+    [voltage] => 0.322
+    [temperature] => 25.0
+)
+
+2025-08-28 10:30:26 - Array
+(
+    [tds_value] => 122.68
+    [analog_value] => 385
+    [voltage] => 0.310
+    [temperature] => 25.0
+)
+
+2025-08-28 10:30:31 - Array
+(
+)
+
+2025-08-28 10:30:56 - Array
+(
+    [tds_value] => 190.58
+    [analog_value] => 620
+    [voltage] => 0.500
+    [temperature] => 25.0
+)
+
+2025-08-28 10:31:26 - Array
+(
+    [tds_value] => 112.23
+    [analog_value] => 350
+    [voltage] => 0.282
+    [temperature] => 25.0
+)
+
+2025-08-28 10:31:56 - Array
+(
+    [tds_value] => 110.73
+    [analog_value] => 345
+    [voltage] => 0.278
+    [temperature] => 25.0
+)
+
+2025-08-28 10:32:26 - Array
+(
+    [tds_value] => 182.36
+    [analog_value] => 591
+    [voltage] => 0.476
+    [temperature] => 25.0
+)
+
+2025-08-28 10:32:56 - Array
+(
+    [tds_value] => 132.73
+    [analog_value] => 419
+    [voltage] => 0.338
+    [temperature] => 25.0
+)
+
+2025-08-28 10:33:26 - Array
+(
+    [tds_value] => 113.73
+    [analog_value] => 355
+    [voltage] => 0.286
+    [temperature] => 25.0
+)
+
+2025-08-28 10:33:56 - Array
+(
+    [tds_value] => 105.91
+    [analog_value] => 329
+    [voltage] => 0.265
+    [temperature] => 25.0
+)
+
+2025-08-28 10:34:26 - Array
+(
+    [tds_value] => 94.05
+    [analog_value] => 290
+    [voltage] => 0.234
+    [temperature] => 25.0
+)
+
+2025-08-28 10:34:56 - Array
+(
+    [tds_value] => 185.76
+    [analog_value] => 603
+    [voltage] => 0.486
+    [temperature] => 25.0
+)
+
+2025-08-28 10:35:26 - Array
+(
+    [tds_value] => 103.19
+    [analog_value] => 320
+    [voltage] => 0.258
+    [temperature] => 25.0
+)
+
+2025-08-28 10:35:56 - Array
+(
+    [tds_value] => 106.51
+    [analog_value] => 331
+    [voltage] => 0.267
+    [temperature] => 25.0
+)
+
+2025-08-28 10:36:26 - Array
+(
+    [tds_value] => 175.25
+    [analog_value] => 566
+    [voltage] => 0.456
+    [temperature] => 25.0
+)
+
+2025-08-28 10:36:56 - Array
+(
+    [tds_value] => 102.28
+    [analog_value] => 317
+    [voltage] => 0.255
+    [temperature] => 25.0
+)
+
+2025-08-28 10:37:26 - Array
+(
+    [tds_value] => 163.24
+    [analog_value] => 524
+    [voltage] => 0.422
+    [temperature] => 25.0
+)
+
+2025-08-28 10:37:56 - Array
+(
+    [tds_value] => 175.25
+    [analog_value] => 566
+    [voltage] => 0.456
+    [temperature] => 25.0
+)
+
+2025-08-28 10:38:26 - Array
+(
+    [tds_value] => 170.68
+    [analog_value] => 550
+    [voltage] => 0.443
+    [temperature] => 25.0
+)
+
+2025-08-28 10:38:57 - Array
+(
+    [tds_value] => 86.67
+    [analog_value] => 266
+    [voltage] => 0.214
+    [temperature] => 25.0
+)
+
+2025-08-28 10:39:27 - Array
+(
+    [tds_value] => 83.58
+    [analog_value] => 256
+    [voltage] => 0.206
+    [temperature] => 25.0
+)
+
+2025-08-28 10:39:57 - Array
+(
+    [tds_value] => 71.10
+    [analog_value] => 216
+    [voltage] => 0.174
+    [temperature] => 25.0
+)
+
+2025-08-28 10:40:27 - Array
+(
+    [tds_value] => 74.86
+    [analog_value] => 228
+    [voltage] => 0.184
+    [temperature] => 25.0
+)
+
+2025-08-28 10:40:57 - Array
+(
+    [tds_value] => 114.93
+    [analog_value] => 359
+    [voltage] => 0.289
+    [temperature] => 25.0
+)
+
+2025-08-28 10:41:27 - Array
+(
+    [tds_value] => 120.30
+    [analog_value] => 377
+    [voltage] => 0.304
+    [temperature] => 25.0
+)
+
+2025-08-28 10:41:57 - Array
+(
+    [tds_value] => 120.30
+    [analog_value] => 377
+    [voltage] => 0.304
+    [temperature] => 25.0
+)
+
+2025-08-28 10:42:27 - Array
+(
+    [tds_value] => 103.19
+    [analog_value] => 320
+    [voltage] => 0.258
+    [temperature] => 25.0
+)
+
+2025-08-28 10:42:57 - Array
+(
+    [tds_value] => 112.83
+    [analog_value] => 352
+    [voltage] => 0.284
+    [temperature] => 25.0
+)
+
+2025-08-28 10:43:27 - Array
+(
+    [tds_value] => 580.60
+    [analog_value] => 1862
+    [voltage] => 1.501
+    [temperature] => 25.0
+)
+
+2025-08-28 10:43:57 - Array
+(
+    [tds_value] => 553.96
+    [analog_value] => 1794
+    [voltage] => 1.446
+    [temperature] => 25.0
+)
+
+2025-08-28 10:44:27 - Array
+(
+    [tds_value] => 480.29
+    [analog_value] => 1592
+    [voltage] => 1.283
+    [temperature] => 25.0
+)
+
+2025-08-28 10:44:57 - Array
+(
+    [tds_value] => 637.48
+    [analog_value] => 1999
+    [voltage] => 1.611
+    [temperature] => 25.0
+)
+
+2025-08-28 10:45:27 - Array
+(
+    [tds_value] => 575.43
+    [analog_value] => 1849
+    [voltage] => 1.490
+    [temperature] => 25.0
+)
+
+2025-08-28 10:45:57 - Array
+(
+    [tds_value] => 473.05
+    [analog_value] => 1571
+    [voltage] => 1.266
+    [temperature] => 25.0
+)
+
+2025-08-28 10:46:27 - Array
+(
+    [tds_value] => 642.68
+    [analog_value] => 2011
+    [voltage] => 1.621
+    [temperature] => 25.0
+)
+
+2025-08-28 10:46:57 - Array
+(
+    [tds_value] => 626.34
+    [analog_value] => 1973
+    [voltage] => 1.590
+    [temperature] => 25.0
+)
+
+2025-08-28 10:47:27 - Array
+(
+    [tds_value] => 484.81
+    [analog_value] => 1605
+    [voltage] => 1.293
+    [temperature] => 25.0
+)
+
+2025-08-28 10:48:21 - Array
+(
+    [tds_value] => 480.64
+    [analog_value] => 1593
+    [voltage] => 1.284
+    [temperature] => 25.0
+)
+
+2025-08-28 10:48:51 - Array
+(
+    [tds_value] => 644.42
+    [analog_value] => 2015
+    [voltage] => 1.624
+    [temperature] => 25.0
+)
+
+2025-08-28 10:49:21 - Array
+(
+    [tds_value] => 477.52
+    [analog_value] => 1584
+    [voltage] => 1.276
+    [temperature] => 25.0
+)
+
+2025-08-28 10:49:51 - Array
+(
+    [tds_value] => 637.91
+    [analog_value] => 2000
+    [voltage] => 1.612
+    [temperature] => 25.0
+)
+
+2025-08-28 10:50:22 - Array
+(
+    [tds_value] => 581.80
+    [analog_value] => 1865
+    [voltage] => 1.503
+    [temperature] => 25.0
+)
+
+2025-08-28 10:50:51 - Array
+(
+    [tds_value] => 507.11
+    [analog_value] => 1668
+    [voltage] => 1.344
+    [temperature] => 25.0
+)
+
+2025-08-28 10:51:21 - Array
+(
+    [tds_value] => 512.89
+    [analog_value] => 1684
+    [voltage] => 1.357
+    [temperature] => 25.0
+)
+
+2025-08-28 10:51:54 - Array
+(
+    [tds_value] => 644.86
+    [analog_value] => 2016
+    [voltage] => 1.625
+    [temperature] => 25.0
+)
+
+2025-08-28 10:52:21 - Array
+(
+    [tds_value] => 530.52
+    [analog_value] => 1732
+    [voltage] => 1.396
+    [temperature] => 25.0
+)
+
+2025-08-28 10:52:51 - Array
+(
+    [tds_value] => 644.86
+    [analog_value] => 2016
+    [voltage] => 1.625
+    [temperature] => 25.0
+)
+
+2025-08-28 10:53:25 - Array
+(
+    [tds_value] => 158.92
+    [analog_value] => 794
+    [voltage] => 0.241
+    [temperature] => 25.0
+)
+
+2025-08-28 10:53:55 - Array
+(
+    [tds_value] => 252.99
+    [analog_value] => 1264
+    [voltage] => 0.383
+    [temperature] => 25.0
+)
+
+2025-08-28 10:54:25 - Array
+(
+    [tds_value] => 252.99
+    [analog_value] => 1264
+    [voltage] => 0.383
+    [temperature] => 25.0
+)
+
+2025-08-28 10:54:55 - Array
+(
+    [tds_value] => 204.75
+    [analog_value] => 1023
+    [voltage] => 0.310
+    [temperature] => 25.0
+)
+
+2025-08-28 10:55:25 - Array
+(
+    [tds_value] => 192.14
+    [analog_value] => 960
+    [voltage] => 0.291
+    [temperature] => 25.0
+)
+
+2025-08-28 10:55:56 - Array
+(
+    [tds_value] => 192.14
+    [analog_value] => 960
+    [voltage] => 0.291
+    [temperature] => 25.0
+)
+
+2025-08-28 10:56:26 - Array
+(
+    [tds_value] => 244.58
+    [analog_value] => 1222
+    [voltage] => 0.371
+    [temperature] => 25.0
+)
+
+2025-08-28 10:56:56 - Array
+(
+    [tds_value] => 246.58
+    [analog_value] => 1232
+    [voltage] => 0.374
+    [temperature] => 25.0
+)
+
+2025-08-28 10:57:35 - Array
+(
+    [tds_value] => 227.99
+    [analog_value] => 784
+    [voltage] => 0.345
+    [temperature] => 25.0
+)
+
+2025-08-28 10:58:05 - Array
+(
+    [tds_value] => 286.44
+    [analog_value] => 985
+    [voltage] => 0.434
+    [temperature] => 25.0
+)
+
+2025-08-28 10:58:35 - Array
+(
+    [tds_value] => 311.74
+    [analog_value] => 1072
+    [voltage] => 0.472
+    [temperature] => 25.0
+)
+
+2025-08-28 10:59:05 - Array
+(
+    [tds_value] => 216.65
+    [analog_value] => 745
+    [voltage] => 0.328
+    [temperature] => 25.0
+)
+
+2025-08-28 10:59:38 - Array
+(
+    [tds_value] => 251.84
+    [analog_value] => 866
+    [voltage] => 0.382
+    [temperature] => 25.0
+)
+
+2025-08-28 11:00:05 - Array
+(
+    [tds_value] => 274.52
+    [analog_value] => 944
+    [voltage] => 0.416
+    [temperature] => 25.0
+)
+
+2025-08-28 11:00:35 - Array
+(
+    [tds_value] => 286.44
+    [analog_value] => 985
+    [voltage] => 0.434
+    [temperature] => 25.0
+)
+
+2025-08-28 11:01:05 - Array
+(
+    [tds_value] => 255.62
+    [analog_value] => 879
+    [voltage] => 0.387
+    [temperature] => 25.0
+)
+
+2025-08-28 11:01:35 - Array
+(
+    [tds_value] => 324.25
+    [analog_value] => 1115
+    [voltage] => 0.491
+    [temperature] => 25.0
+)
+
+2025-08-28 11:02:05 - Array
+(
+    [tds_value] => 316.11
+    [analog_value] => 1087
+    [voltage] => 0.479
+    [temperature] => 25.0
+)
+
+2025-08-28 11:02:35 - Array
+(
+    [tds_value] => 228.28
+    [analog_value] => 785
+    [voltage] => 0.346
+    [temperature] => 25.0
+)
+
+2025-08-28 11:03:05 - Array
+(
+    [tds_value] => 337.63
+    [analog_value] => 1161
+    [voltage] => 0.512
+    [temperature] => 25.0
+)
+
+2025-08-28 11:03:35 - Array
+(
+    [tds_value] => 217.52
+    [analog_value] => 748
+    [voltage] => 0.330
+    [temperature] => 25.0
+)
+
+2025-08-28 11:04:06 - Array
+(
+    [tds_value] => 271.61
+    [analog_value] => 934
+    [voltage] => 0.412
+    [temperature] => 25.0
+)
+
+2025-08-28 11:04:36 - Array
+(
+    [tds_value] => 415.85
+    [analog_value] => 1430
+    [voltage] => 0.630
+    [temperature] => 25.0
+)
+
+2025-08-28 11:05:05 - Array
+(
+    [tds_value] => 306.51
+    [analog_value] => 1054
+    [voltage] => 0.464
+    [temperature] => 25.0
+)
+
+2025-08-28 11:05:36 - Array
+(
+    [tds_value] => 294.01
+    [analog_value] => 1011
+    [voltage] => 0.445
+    [temperature] => 25.0
+)
+
+2025-08-28 11:06:06 - Array
+(
+    [tds_value] => 411.20
+    [analog_value] => 1414
+    [voltage] => 0.623
+    [temperature] => 25.0
+)
+
+2025-08-28 11:06:42 - Array
+(
+    [tds_value] => 692.57
+    [analog_value] => 2122
+    [voltage] => 1.710
+    [temperature] => 25.0
+)
+
+2025-08-28 11:07:11 - Array
+(
+    [tds_value] => 644.42
+    [analog_value] => 2015
+    [voltage] => 1.624
+    [temperature] => 25.0
+)
+
+2025-08-28 11:07:41 - Array
+(
+    [tds_value] => 619.56
+    [analog_value] => 1957
+    [voltage] => 1.577
+    [temperature] => 25.0
+)
+
+2025-08-28 11:08:11 - Array
+(
+    [tds_value] => 572.66
+    [analog_value] => 1842
+    [voltage] => 1.484
+    [temperature] => 25.0
+)
+
+2025-08-28 11:08:41 - Array
+(
+    [tds_value] => 558.98
+    [analog_value] => 1807
+    [voltage] => 1.456
+    [temperature] => 25.0
+)
+
+2025-08-28 11:09:11 - Array
+(
+    [tds_value] => 684.26
+    [analog_value] => 2104
+    [voltage] => 1.696
+    [temperature] => 25.0
+)
+
+2025-08-28 11:09:41 - Array
+(
+    [tds_value] => 757.90
+    [analog_value] => 2257
+    [voltage] => 1.819
+    [temperature] => 25.0
+)
+
+2025-08-28 11:10:11 - Array
+(
+    [tds_value] => 705.69
+    [analog_value] => 2150
+    [voltage] => 1.733
+    [temperature] => 25.0
+)
+
+2025-08-28 11:10:41 - Array
+(
+    [tds_value] => 586.21
+    [analog_value] => 1876
+    [voltage] => 1.512
+    [temperature] => 25.0
+)
+
+2025-08-28 11:11:11 - Array
+(
+    [tds_value] => 611.60
+    [analog_value] => 1938
+    [voltage] => 1.562
+    [temperature] => 25.0
+)
+
+2025-08-28 11:11:41 - Array
+(
+    [tds_value] => 658.95
+    [analog_value] => 2048
+    [voltage] => 1.650
+    [temperature] => 25.0
+)
+
+2025-08-28 11:12:11 - Array
+(
+    [tds_value] => 578.21
+    [analog_value] => 1856
+    [voltage] => 1.496
+    [temperature] => 25.0
+)
+
+2025-08-28 11:12:41 - Array
+(
+    [tds_value] => 610.35
+    [analog_value] => 1935
+    [voltage] => 1.559
+    [temperature] => 25.0
+)
+
+2025-08-28 11:13:11 - Array
+(
+    [tds_value] => 723.36
+    [analog_value] => 2187
+    [voltage] => 1.762
+    [temperature] => 25.0
+)
+
+2025-08-28 11:14:01 - Array
+(
+    [tds_value] => 586.21
+    [analog_value] => 1876
+    [voltage] => 1.512
+    [temperature] => 25.0
+)
+
+2025-08-28 11:14:11 - Array
+(
+    [tds_value] => 678.31
+    [analog_value] => 2091
+    [voltage] => 1.685
+    [temperature] => 25.0
+)
+
+2025-08-28 11:14:41 - Array
+(
+    [tds_value] => 738.97
+    [analog_value] => 2219
+    [voltage] => 1.788
+    [temperature] => 25.0
+)
+
+2025-08-28 11:15:11 - Array
+(
+    [tds_value] => 738.97
+    [analog_value] => 2219
+    [voltage] => 1.788
+    [temperature] => 25.0
+)
+
+2025-08-28 11:15:41 - Array
+(
+    [tds_value] => 672.85
+    [analog_value] => 2079
+    [voltage] => 1.675
+    [temperature] => 25.0
+)
+
+2025-08-28 11:16:11 - Array
+(
+    [tds_value] => 664.30
+    [analog_value] => 2060
+    [voltage] => 1.660
+    [temperature] => 25.0
+)
+
+2025-08-28 11:16:41 - Array
+(
+    [tds_value] => 734.55
+    [analog_value] => 2210
+    [voltage] => 1.781
+    [temperature] => 25.0
+)
+
+2025-08-28 11:17:12 - Array
+(
+    [tds_value] => 564.42
+    [analog_value] => 1821
+    [voltage] => 1.467
+    [temperature] => 25.0
+)
+
+2025-08-28 11:17:42 - Array
+(
+    [tds_value] => 746.39
+    [analog_value] => 2234
+    [voltage] => 1.800
+    [temperature] => 25.0
+)
+
+2025-08-28 11:18:12 - Array
+(
+    [tds_value] => 637.91
+    [analog_value] => 2000
+    [voltage] => 1.612
+    [temperature] => 25.0
+)
+
+2025-08-28 11:18:42 - Array
+(
+    [tds_value] => 647.04
+    [analog_value] => 2021
+    [voltage] => 1.629
+    [temperature] => 25.0
+)
+
+2025-08-28 11:19:12 - Array
+(
+    [tds_value] => 770.09
+    [analog_value] => 2281
+    [voltage] => 1.838
+    [temperature] => 25.0
+)
+
+2025-08-28 11:19:42 - Array
+(
+    [tds_value] => 753.38
+    [analog_value] => 2248
+    [voltage] => 1.812
+    [temperature] => 25.0
+)
+
+2025-08-28 11:20:12 - Array
+(
+    [tds_value] => 552.42
+    [analog_value] => 1790
+    [voltage] => 1.442
+    [temperature] => 25.0
+)
+
+2025-08-28 11:20:42 - Array
+(
+    [tds_value] => 756.89
+    [analog_value] => 2255
+    [voltage] => 1.817
+    [temperature] => 25.0
+)
+
+2025-08-28 11:21:26 - Array
+(
+    [tds_value] => 674.93
+    [analog_value] => 2142
+    [voltage] => 1.023
+    [temperature] => 25.0
+)
+
+2025-08-28 11:21:56 - Array
+(
+    [tds_value] => 575.05
+    [analog_value] => 1825
+    [voltage] => 0.871
+    [temperature] => 25.0
+)
+
+2025-08-28 11:22:26 - Array
+(
+    [tds_value] => 620.42
+    [analog_value] => 1969
+    [voltage] => 0.940
+    [temperature] => 25.0
+)
+
+2025-08-28 11:22:56 - Array
+(
+    [tds_value] => 434.20
+    [analog_value] => 1378
+    [voltage] => 0.658
+    [temperature] => 25.0
+)
+
+2025-08-28 11:23:26 - Array
+(
+    [tds_value] => 720.31
+    [analog_value] => 2286
+    [voltage] => 1.091
+    [temperature] => 25.0
+)
+
+2025-08-28 11:23:57 - Array
+(
+    [tds_value] => 727.87
+    [analog_value] => 2310
+    [voltage] => 1.103
+    [temperature] => 25.0
+)
+
+2025-08-28 11:24:26 - Array
+(
+    [tds_value] => 531.56
+    [analog_value] => 1687
+    [voltage] => 0.805
+    [temperature] => 25.0
+)
+
+2025-08-28 11:24:56 - Array
+(
+    [tds_value] => 497.85
+    [analog_value] => 1580
+    [voltage] => 0.754
+    [temperature] => 25.0
+)
+
+2025-08-28 11:25:26 - Array
+(
+    [tds_value] => 516.44
+    [analog_value] => 1639
+    [voltage] => 0.782
+    [temperature] => 25.0
+)
+
+2025-08-28 11:25:56 - Array
+(
+    [tds_value] => 427.90
+    [analog_value] => 1358
+    [voltage] => 0.648
+    [temperature] => 25.0
+)
+
+2025-08-28 11:26:27 - Array
+(
+    [tds_value] => 723.77
+    [analog_value] => 2297
+    [voltage] => 1.097
+    [temperature] => 25.0
+)
+
+2025-08-28 11:26:58 - Array
+(
+    [tds_value] => 777.34
+    [analog_value] => 2467
+    [voltage] => 1.178
+    [temperature] => 25.0
+)
+
+2025-08-28 11:27:26 - Array
+(
+    [tds_value] => 458.15
+    [analog_value] => 1454
+    [voltage] => 0.694
+    [temperature] => 25.0
+)
+
+2025-08-28 11:27:56 - Array
+(
+    [tds_value] => 536.61
+    [analog_value] => 1703
+    [voltage] => 0.813
+    [temperature] => 25.0
+)
+
+2025-08-28 11:28:26 - Array
+(
+    [tds_value] => 625.15
+    [analog_value] => 1984
+    [voltage] => 0.947
+    [temperature] => 25.0
+)
+
+2025-08-28 11:28:57 - Array
+(
+    [tds_value] => 760.95
+    [analog_value] => 2415
+    [voltage] => 1.153
+    [temperature] => 25.0
+)
+
+2025-08-28 11:29:26 - Array
+(
+    [tds_value] => 692.89
+    [analog_value] => 2199
+    [voltage] => 1.050
+    [temperature] => 25.0
+)
+
+2025-08-28 11:30:06 - Array
+(
+    [tds_value] => 713.06
+    [analog_value] => 2263
+    [voltage] => 1.080
+    [temperature] => 25.0
+)
+
+2025-08-28 11:30:30 - Array
+(
+    [tds_value] => 622.94
+    [analog_value] => 1977
+    [voltage] => 0.944
+    [temperature] => 25.0
+)
+
+2025-08-28 11:30:57 - Array
+(
+    [tds_value] => 526.52
+    [analog_value] => 1671
+    [voltage] => 0.798
+    [temperature] => 25.0
+)
+
+2025-08-28 11:31:27 - Array
+(
+    [tds_value] => 685.02
+    [analog_value] => 2174
+    [voltage] => 1.038
+    [temperature] => 25.0
+)
+
+2025-08-28 11:31:57 - Array
+(
+    [tds_value] => 643.42
+    [analog_value] => 2042
+    [voltage] => 0.975
+    [temperature] => 25.0
+)
+
+2025-08-28 11:32:27 - Array
+(
+    [tds_value] => 846.34
+    [analog_value] => 2686
+    [voltage] => 1.282
+    [temperature] => 25.0
+)
+
+2025-08-28 11:32:57 - Array
+(
+    [tds_value] => 665.48
+    [analog_value] => 2112
+    [voltage] => 1.008
+    [temperature] => 25.0
+)
+
+2025-08-28 11:33:27 - Array
+(
+    [tds_value] => 619.79
+    [analog_value] => 1967
+    [voltage] => 0.939
+    [temperature] => 25.0
+)
+
+2025-08-28 11:33:57 - Array
+(
+    [tds_value] => 750.56
+    [analog_value] => 2382
+    [voltage] => 1.137
+    [temperature] => 25.0
+)
+
+2025-08-28 11:34:27 - Array
+(
+    [tds_value] => 539.44
+    [analog_value] => 1712
+    [voltage] => 0.817
+    [temperature] => 25.0
+)
+
+2025-08-28 11:34:57 - Array
+(
+    [tds_value] => 495.01
+    [analog_value] => 1571
+    [voltage] => 0.750
+    [temperature] => 25.0
+)
+
+2025-08-28 11:35:27 - Array
+(
+    [tds_value] => 483.67
+    [analog_value] => 1535
+    [voltage] => 0.733
+    [temperature] => 25.0
+)
+
+2025-08-28 11:35:57 - Array
+(
+    [tds_value] => 770.72
+    [analog_value] => 2446
+    [voltage] => 1.168
+    [temperature] => 25.0
+)
+
+2025-08-28 11:36:27 - Array
+(
+    [tds_value] => 554.25
+    [analog_value] => 1759
+    [voltage] => 0.840
+    [temperature] => 25.0
+)
+
+2025-08-28 11:36:57 - Array
+(
+    [tds_value] => 681.23
+    [analog_value] => 2162
+    [voltage] => 1.032
+    [temperature] => 25.0
+)
+
+2025-08-28 11:37:29 - Array
+(
+    [tds_value] => 837.21
+    [analog_value] => 2657
+    [voltage] => 1.268
+    [temperature] => 25.0
+)
+
+2025-08-28 11:37:57 - Array
+(
+    [tds_value] => 869.03
+    [analog_value] => 2758
+    [voltage] => 1.317
+    [temperature] => 25.0
+)
+
+2025-08-28 11:38:27 - Array
+(
+    [tds_value] => 781.12
+    [analog_value] => 2479
+    [voltage] => 1.184
+    [temperature] => 25.0
+)
+
+2025-08-28 11:38:57 - Array
+(
+    [tds_value] => 798.13
+    [analog_value] => 2533
+    [voltage] => 1.209
+    [temperature] => 25.0
+)
+
+2025-08-28 11:39:28 - Array
+(
+    [tds_value] => 758.43
+    [analog_value] => 2407
+    [voltage] => 1.149
+    [temperature] => 25.0
+)
+
+2025-08-28 11:39:58 - Array
+(
+    [tds_value] => 846.34
+    [analog_value] => 2686
+    [voltage] => 1.282
+    [temperature] => 25.0
+)
+
+2025-08-28 11:40:28 - Array
+(
+    [tds_value] => 622.00
+    [analog_value] => 1974
+    [voltage] => 0.942
+    [temperature] => 25.0
+)
+
+2025-08-28 11:40:58 - Array
+(
+    [tds_value] => 777.02
+    [analog_value] => 2466
+    [voltage] => 1.177
+    [temperature] => 25.0
+)
+
+2025-08-28 11:41:28 - Array
+(
+    [tds_value] => 734.49
+    [analog_value] => 2331
+    [voltage] => 1.113
+    [temperature] => 25.0
+)
+
+2025-08-28 11:41:58 - Array
+(
+    [tds_value] => 587.34
+    [analog_value] => 1864
+    [voltage] => 0.890
+    [temperature] => 25.0
+)
+
+2025-08-28 11:42:28 - Array
+(
+    [tds_value] => 624.83
+    [analog_value] => 1983
+    [voltage] => 0.947
+    [temperature] => 25.0
+)
+
+2025-08-28 11:42:58 - Array
+(
+    [tds_value] => 818.30
+    [analog_value] => 2597
+    [voltage] => 1.240
+    [temperature] => 25.0
+)
+
+2025-08-28 11:43:28 - Array
+(
+    [tds_value] => 804.75
+    [analog_value] => 2554
+    [voltage] => 1.219
+    [temperature] => 25.0
+)
+
+2025-08-28 11:43:58 - Array
+(
+    [tds_value] => 621.05
+    [analog_value] => 1971
+    [voltage] => 0.941
+    [temperature] => 25.0
+)
+
+2025-08-28 11:44:28 - Array
+(
+    [tds_value] => 702.98
+    [analog_value] => 2231
+    [voltage] => 1.065
+    [temperature] => 25.0
+)
+
+2025-08-28 11:44:58 - Array
+(
+    [tds_value] => 604.67
+    [analog_value] => 1919
+    [voltage] => 0.916
+    [temperature] => 25.0
+)
+
+2025-08-28 11:45:28 - Array
+(
+    [tds_value] => 830.27
+    [analog_value] => 2635
+    [voltage] => 1.258
+    [temperature] => 25.0
+)
+
+2025-08-28 11:45:58 - Array
+(
+    [tds_value] => 639.96
+    [analog_value] => 2031
+    [voltage] => 0.970
+    [temperature] => 25.0
+)
+
+2025-08-28 11:46:28 - Array
+(
+    [tds_value] => 731.65
+    [analog_value] => 2322
+    [voltage] => 1.109
+    [temperature] => 25.0
+)
+
+2025-08-28 11:46:58 - Array
+(
+    [tds_value] => 710.85
+    [analog_value] => 2256
+    [voltage] => 1.077
+    [temperature] => 25.0
+)
+
+2025-08-28 16:17:47 - Array
+(
+    [tds_value] => 442.78
+    [analog_value] => 1957
+    [voltage] => 0.671
+    [temperature] => 25.0
+)
+
+2025-08-28 17:34:35 - Array
+(
+    [tds_value] => 582.75
+    [analog_value] => 1924
+    [voltage] => 0.883
+    [temperature] => 25.0
+)
+
+2025-08-28 17:35:05 - Array
+(
+    [tds_value] => 582.75
+    [analog_value] => 1924
+    [voltage] => 0.883
+    [temperature] => 25.0
+)
+
+2025-08-28 17:35:34 - Array
+(
+    [tds_value] => 549.43
+    [analog_value] => 1814
+    [voltage] => 0.832
+    [temperature] => 25.0
+)
+
+2025-08-28 17:36:10 - Array
+(
+    [tds_value] => 394.63
+    [analog_value] => 1781
+    [voltage] => 0.598
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:36:38 - Array
+(
+    [tds_value] => 403.27
+    [analog_value] => 1820
+    [voltage] => 0.611
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:37:11 - Array
+(
+    [tds_value] => 368.04
+    [analog_value] => 1661
+    [voltage] => 0.558
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:37:38 - Array
+(
+    [tds_value] => 322.62
+    [analog_value] => 1456
+    [voltage] => 0.489
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:38:08 - Array
+(
+    [tds_value] => 260.36
+    [analog_value] => 1175
+    [voltage] => 0.394
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:38:39 - Array
+(
+    [tds_value] => 401.28
+    [analog_value] => 1811
+    [voltage] => 0.608
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:39:09 - Array
+(
+    [tds_value] => 354.53
+    [analog_value] => 1600
+    [voltage] => 0.537
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:39:39 - Array
+(
+    [tds_value] => 350.98
+    [analog_value] => 1584
+    [voltage] => 0.532
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:40:10 - Array
+(
+    [tds_value] => 291.82
+    [analog_value] => 1317
+    [voltage] => 0.442
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:40:40 - Array
+(
+    [tds_value] => 339.02
+    [analog_value] => 1530
+    [voltage] => 0.514
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:41:09 - Array
+(
+    [tds_value] => 313.31
+    [analog_value] => 1414
+    [voltage] => 0.475
+    [temperature] => 25.0
+    [turbidity] => 2211.7
+)
+
+2025-08-28 17:41:39 - Array
+(
+    [tds_value] => 356.74
+    [analog_value] => 1610
+    [voltage] => 0.541
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:42:56 - Array
+(
+    [tds_value] => 564.27
+    [analog_value] => 1867
+    [voltage] => 0.855
+    [temperature] => 25.0
+    [turbidity] => 160.8
+)
+
+2025-08-28 17:43:25 - Array
+(
+    [tds_value] => 354.83
+    [analog_value] => 1174
+    [voltage] => 0.538
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:43:56 - Array
+(
+    [tds_value] => 386.26
+    [analog_value] => 1278
+    [voltage] => 0.585
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:44:26 - Array
+(
+    [tds_value] => 353.92
+    [analog_value] => 1171
+    [voltage] => 0.536
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:44:56 - Array
+(
+    [tds_value] => 367.52
+    [analog_value] => 1216
+    [voltage] => 0.557
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:46:04 - Array
+(
+    [tds_value] => 433.10
+    [analog_value] => 1433
+    [voltage] => 0.656
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:46:31 - Array
+(
+    [tds_value] => 372.35
+    [analog_value] => 1232
+    [voltage] => 0.564
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:47:01 - Array
+(
+    [tds_value] => 368.12
+    [analog_value] => 1218
+    [voltage] => 0.558
+    [temperature] => 25.0
+    [turbidity] => 289.0
+)
+
+2025-08-28 17:47:32 - Array
+(
+    [tds_value] => 424.04
+    [analog_value] => 1403
+    [voltage] => 0.642
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:48:02 - Array
+(
+    [tds_value] => 396.23
+    [analog_value] => 1311
+    [voltage] => 0.600
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:48:32 - Array
+(
+    [tds_value] => 324.00
+    [analog_value] => 1072
+    [voltage] => 0.491
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:49:02 - Array
+(
+    [tds_value] => 508.66
+    [analog_value] => 1683
+    [voltage] => 0.771
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-28 17:49:32 - Array
+(
+    [tds_value] => 446.71
+    [analog_value] => 1478
+    [voltage] => 0.677
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-29 09:08:33 - Array
+(
+    [tds_value] => 292.21
+    [analog_value] => 1243
+    [voltage] => 0.443
+    [temperature] => 25.0
+    [turbidity] => 1777.0
+)
+
+2025-08-29 09:09:03 - Array
+(
+    [tds_value] => 215.10
+    [analog_value] => 915
+    [voltage] => 0.326
+    [temperature] => 25.0
+    [turbidity] => 21.2
+)
+
+2025-08-29 09:09:33 - Array
+(
+    [tds_value] => 162.45
+    [analog_value] => 691
+    [voltage] => 0.246
+    [temperature] => 25.0
+    [turbidity] => 2446.4
+)
+
+2025-08-29 09:10:14 - Array
+(
+    [tds_value] => 122.09
+    [analog_value] => 625
+    [voltage] => 0.185
+    [temperature] => 25.0
+    [turbidity] => 2044.2
+)
+
+2025-08-29 09:11:44 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 34
+    [voltage] => 0.010
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-29 09:13:14 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-29 09:14:44 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-29 09:16:14 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-29 09:19:33 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-29 09:21:03 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-29 09:22:33 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-29 09:24:03 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-29 09:25:33 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-29 09:27:03 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-29 09:28:33 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-29 09:30:03 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-29 09:31:33 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-31 01:52:14 - Array
+(
+)
+
+2025-08-31 12:12:02 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-31 12:14:19 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-31 12:15:51 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-31 12:17:20 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-31 12:18:49 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-31 12:20:20 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-31 12:21:50 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-31 12:23:20 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-31 12:24:50 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-31 12:26:20 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-31 12:27:50 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-31 12:29:20 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-31 12:30:50 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-31 12:32:20 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-31 12:33:50 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-31 12:35:20 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-31 12:36:50 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-31 12:38:20 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-31 13:43:35 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+    [turbidity] => 0.0
+)
+
+2025-08-31 13:46:03 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 13:47:33 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 13:49:03 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 13:50:33 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 13:52:03 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 13:53:34 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 13:55:05 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 13:56:34 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 13:58:04 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 13:59:34 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:01:07 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:02:35 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:04:05 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:05:35 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:07:05 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:08:35 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:10:06 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:22:16 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+)
+
+2025-08-31 14:22:45 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+)
+
+2025-08-31 14:23:15 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+)
+
+2025-08-31 14:24:46 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+)
+
+2025-08-31 14:26:16 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+)
+
+2025-08-31 14:27:46 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+)
+
+2025-08-31 14:29:34 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:31:04 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:32:34 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:39:37 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:41:21 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:42:52 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:44:22 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:45:52 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:47:23 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:48:52 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:50:23 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:52:18 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:53:48 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:55:18 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:56:48 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:58:18 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 14:59:49 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 15:01:19 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 15:02:49 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 15:04:19 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 15:05:49 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 15:07:20 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 15:08:50 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 15:10:20 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 15:11:50 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 15:13:20 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 15:14:51 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 15:16:21 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 15:17:51 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 15:19:21 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 15:20:51 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 15:22:21 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 15:23:51 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 15:25:22 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 15:26:52 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 15:41:15 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [temperature] => 25.0
+)
+
+2025-08-31 15:43:59 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [turbidity] => 0.0
+)
+
+2025-08-31 15:45:26 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [turbidity] => 0.0
+)
+
+2025-08-31 15:46:56 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [turbidity] => 0.0
+)
+
+2025-08-31 15:48:26 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [turbidity] => 0.0
+)
+
+2025-08-31 15:49:56 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [turbidity] => 0.0
+)
+
+2025-08-31 15:51:26 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [turbidity] => 0.0
+)
+
+2025-08-31 15:52:56 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [turbidity] => 0.0
+)
+
+2025-08-31 15:54:26 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [turbidity] => 0.0
+)
+
+2025-08-31 15:55:57 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [turbidity] => 0.0
+)
+
+2025-08-31 16:39:43 - Array
+(
+    [tds_value] => 146.88
+    [analog_value] => 731
+    [voltage] => 0.223
+    [turbidity] => 0.0
+)
+
+2025-08-31 16:40:13 - Array
+(
+    [tds_value] => 76.55
+    [analog_value] => 381
+    [voltage] => 0.116
+    [turbidity] => 0.0
+)
+
+2025-08-31 16:42:50 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [turbidity] => 0.0
+)
+
+2025-08-31 16:44:20 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [turbidity] => 0.0
+)
+
+2025-08-31 16:45:50 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [turbidity] => 0.0
+)
+
+2025-08-31 16:47:20 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 0
+    [voltage] => 0.000
+    [turbidity] => 0.0
+)
+
+2025-08-31 16:48:50 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 90
+    [voltage] => 0.019
+    [turbidity] => 0.0
+)
+
+2025-08-31 16:50:20 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 186
+    [voltage] => 0.040
+    [turbidity] => 0.0
+)
+
+2025-08-31 16:51:50 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 207
+    [voltage] => 0.045
+    [turbidity] => 0.0
+)
+
+2025-08-31 16:53:20 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 207
+    [voltage] => 0.045
+    [turbidity] => 0.0
+)
+
+2025-08-31 16:54:51 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 207
+    [voltage] => 0.045
+    [turbidity] => 0.0
+)
+
+2025-08-31 16:56:21 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 207
+    [voltage] => 0.045
+    [turbidity] => 0.0
+)
+
+2025-08-31 16:57:50 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 173
+    [voltage] => 0.037
+    [turbidity] => 0.0
+)
+
+2025-08-31 16:59:21 - Array
+(
+    [tds_value] => 0.00
+    [analog_value] => 142
+    [voltage] => 0.031
+    [turbidity] => 0.0
+)
+

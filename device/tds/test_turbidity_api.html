@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Turbidity API Test</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .container { max-width: 800px; margin: 0 auto; }
+        .test-button { 
+            background: #007bff; 
+            color: white; 
+            padding: 10px 20px; 
+            border: none; 
+            border-radius: 5px; 
+            cursor: pointer; 
+            margin: 10px 0;
+        }
+        .result { 
+            background: #f8f9fa; 
+            border: 1px solid #dee2e6; 
+            border-radius: 5px; 
+            padding: 15px; 
+            margin: 10px 0;
+            white-space: pre-wrap;
+        }
+        .error { background: #f8d7da; border-color: #f5c6cb; }
+        .success { background: #d4edda; border-color: #c3e6cb; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🧪 Turbidity API Test</h1>
+        
+        <h2>Test 1: Basic API Call</h2>
+        <button class="test-button" onclick="testBasicAPI()">Test Basic API</button>
+        <div id="basicResult" class="result"></div>
+        
+        <h2>Test 2: Detailed Data</h2>
+        <button class="test-button" onclick="testDetailedData()">Show All Data</button>
+        <div id="detailedResult" class="result"></div>
+        
+        <h2>Test 3: Real-time Updates</h2>
+        <button class="test-button" onclick="startRealTimeUpdates()">Start Real-time Updates</button>
+        <button class="test-button" onclick="stopRealTimeUpdates()">Stop Updates</button>
+        <div id="realtimeResult" class="result"></div>
+        
+        <h2>Test 4: Chart Data Format</h2>
+        <button class="test-button" onclick="testChartData()">Test Chart Data</button>
+        <div id="chartResult" class="result"></div>
+    </div>
+
+    <script>
+        let updateInterval;
+        
+        function testBasicAPI() {
+            const resultDiv = document.getElementById('basicResult');
+            resultDiv.innerHTML = 'Loading...';
+            
+            fetch('get_turbidity_data.php')
+                .then(response => response.json())
+                .then(data => {
+                    const output = `✅ SUCCESS!
+Latest NTU: ${data.readings[0].ntu_value}
+Average NTU: ${data.stats.avg_ntu}
+Total Readings: ${data.stats.total_readings}
+Water Quality: ${data.readings[0].water_quality}
+Last Reading: ${data.readings[0].reading_time}`;
+                    
+                    resultDiv.innerHTML = output;
+                    resultDiv.className = 'result success';
+                })
+                .catch(error => {
+                    resultDiv.innerHTML = `❌ ERROR: ${error.message}`;
+                    resultDiv.className = 'result error';
+                });
+        }
+        
+        function testDetailedData() {
+            const resultDiv = document.getElementById('detailedResult');
+            resultDiv.innerHTML = 'Loading...';
+            
+            fetch('get_turbidity_data.php')
+                .then(response => response.json())
+                .then(data => {
+                    let output = '📊 COMPLETE DATA:\n\n';
+                    
+                    // Statistics
+                    output += 'STATISTICS:\n';
+                    output += `Average NTU: ${data.stats.avg_ntu}\n`;
+                    output += `Max NTU: ${data.stats.max_ntu}\n`;
+                    output += `Min NTU: ${data.stats.min_ntu}\n`;
+                    output += `Total Readings: ${data.stats.total_readings}\n\n`;
+                    
+                    // Latest readings
+                    output += 'LATEST READINGS:\n';
+                    data.readings.slice(0, 3).forEach((reading, index) => {
+                        output += `Reading ${index + 1}:\n`;
+                        output += `  ID: ${reading.id}\n`;
+                        output += `  Device: ${reading.device_id}\n`;
+                        output += `  NTU Value: ${reading.ntu_value}\n`;
+                        output += `  Analog Value: ${reading.analog_value}\n`;
+                        output += `  Voltage: ${reading.voltage}\n`;
+                        output += `  Water Quality: ${reading.water_quality}\n`;
+                        output += `  Time: ${reading.reading_time}\n\n`;
+                    });
+                    
+                    resultDiv.innerHTML = output;
+                    resultDiv.className = 'result success';
+                })
+                .catch(error => {
+                    resultDiv.innerHTML = `❌ ERROR: ${error.message}`;
+                    resultDiv.className = 'result error';
+                });
+        }
+        
+        function startRealTimeUpdates() {
+            const resultDiv = document.getElementById('realtimeResult');
+            resultDiv.innerHTML = 'Starting real-time updates...\n';
+            
+            updateInterval = setInterval(() => {
+                fetch('get_turbidity_data.php')
+                    .then(response => response.json())
+                    .then(data => {
+                        const timestamp = new Date().toLocaleTimeString();
+                        const latest = data.readings[0];
+                        
+                        const output = `${timestamp} - Latest NTU: ${latest.ntu_value}, Quality: ${latest.water_quality}, Total: ${data.stats.total_readings} readings\n`;
+                        resultDiv.innerHTML += output;
+                        resultDiv.scrollTop = resultDiv.scrollHeight;
+                    })
+                    .catch(error => {
+                        resultDiv.innerHTML += `${new Date().toLocaleTimeString()} - ERROR: ${error.message}\n`;
+                    });
+            }, 5000); // Update every 5 seconds
+        }
+        
+        function stopRealTimeUpdates() {
+            if (updateInterval) {
+                clearInterval(updateInterval);
+                updateInterval = null;
+                document.getElementById('realtimeResult').innerHTML += 'Real-time updates stopped.\n';
+            }
+        }
+        
+        function testChartData() {
+            const resultDiv = document.getElementById('chartResult');
+            resultDiv.innerHTML = 'Loading chart data...';
+            
+            fetch('get_turbidity_data.php')
+                .then(response => response.json())
+                .then(data => {
+                    // Prepare data for Chart.js
+                    const chartData = {
+                        labels: data.readings.map(r => new Date(r.reading_time).toLocaleTimeString()),
+                        datasets: [{
+                            label: 'Turbidity (NTU)',
+                            data: data.readings.map(r => parseFloat(r.ntu_value)),
+                            borderColor: 'rgb(75, 192, 192)',
+                            backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                            tension: 0.1
+                        }]
+                    };
+                    
+                    const output = `📈 CHART DATA FORMAT:
+${JSON.stringify(chartData, null, 2)}
+
+This data is ready to use with Chart.js!`;
+                    
+                    resultDiv.innerHTML = output;
+                    resultDiv.className = 'result success';
+                })
+                .catch(error => {
+                    resultDiv.innerHTML = `❌ ERROR: ${error.message}`;
+                    resultDiv.className = 'result error';
+                });
+        }
+        
+        // Auto-run basic test on page load
+        window.onload = function() {
+            testBasicAPI();
+        };
+    </script>
+</body>
+</html>
+

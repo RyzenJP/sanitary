@@ -1,0 +1,43 @@
+{
+  "status": "success",
+  "timestamp": "2025-09-22T17:45:13.018301",
+  "predictions": {
+    "tds": {
+      "current": 415.3971294674511,
+      "predicted": 419.628262629816,
+      "confidence_lower": 398.6468494983252,
+      "confidence_upper": 440.6096757613068,
+      "horizon_hours": 6,
+      "trend": "stable"
+    },
+    "turbidity": {
+      "current": 2.961776798604413,
+      "predicted": 3.098055824938423,
+      "confidence_lower": 2.7882502424445805,
+      "confidence_upper": 3.4078614074322653,
+      "horizon_hours": 6,
+      "trend": "stable"
+    },
+    "quality_risk": {
+      "predicted_quality": "Good",
+      "confidence": 0.85,
+      "risk_score": 25.0,
+      "quality_probabilities": {
+        "Excellent": 0.2,
+        "Good": 0.45,
+        "Fair": 0.25,
+        "Poor": 0.08,
+        "Unsafe": 0.02
+      }
+    }
+  },
+  "alerts": [],
+  "recommendations": [
+    {
+      "action": "monitor_trends",
+      "priority": "low",
+      "message": "Continue regular monitoring",
+      "category": "general"
+    }
+  ]
+}

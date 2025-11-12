@@ -1,0 +1,112 @@
+2025-10-26 19:20:31,021 - INFO - Starting automatic AI training...
+2025-10-26 19:20:32,935 - INFO - Training output: TRAINING WITH REAL DATABASE DATA
+==================================================
+Started at: 2025-10-26 19:20:32
+Connecting to database...
+Fetching TDS data...
+Fetching Turbidity data...
+SUCCESS: TDS data: 2 records
+SUCCESS: Turbidity data: 2 records
+Creating potability labels based on WHO guidelines...
+SUCCESS: Combined dataset: 2 records
+   - Potable: 0
+   - Marginal: 2
+   - Not Potable: 0
+
+Training Potability Classifier with REAL DATA...
+Preparing features...
+SUCCESS: Potability Classifier trained with REAL DATA!
+   - Samples: 2
+   - Accuracy: 1.000
+   - Top features: tds_value (0.000)
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    Marginal       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Training Potability Score Regressor with REAL DATA...
+WARNING: Not enough data for regressor training (need at least 3 samples)
+Creating a simple model with available data...
+SUCCESS: Simple Potability Score Regressor trained with REAL DATA!
+   - Samples: 2
+   - Model: Linear Regression (simplified for small dataset)
+
+TRAINING WITH REAL DATA COMPLETE!
+   - Models trained: 2/2
+   - Models saved: potability_classifier_real.pkl, potability_score_regressor_real.pkl
+   - Data source: Your real sensor database
+   - Ready for production!
+
+SUCCESS! Your AI models are trained with REAL DATA!
+To use real data models:
+   1. Update ml_server.py to load 'potability_classifier_real.pkl'
+   2. Update ml_server.py to load 'potability_score_regressor_real.pkl'
+   3. Restart your Python server
+
+Your AI system now learns from your actual sensor data!
+
+Completed at: 2025-10-26 19:20:32
+
+2025-10-26 19:20:32,947 - INFO - Attempting to restart ML server...
+2025-10-26 19:21:22,155 - INFO - Starting automatic AI training...
+2025-10-26 19:21:23,885 - INFO - Training output: TRAINING WITH REAL DATABASE DATA
+==================================================
+Started at: 2025-10-26 19:21:23
+Connecting to database...
+Fetching TDS data...
+Fetching Turbidity data...
+SUCCESS: TDS data: 2 records
+SUCCESS: Turbidity data: 2 records
+Creating potability labels based on WHO guidelines...
+SUCCESS: Combined dataset: 2 records
+   - Potable: 0
+   - Marginal: 2
+   - Not Potable: 0
+
+Training Potability Classifier with REAL DATA...
+Preparing features...
+SUCCESS: Potability Classifier trained with REAL DATA!
+   - Samples: 2
+   - Accuracy: 1.000
+   - Top features: tds_value (0.000)
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    Marginal       1.00      1.00      1.00         1
+
+    accuracy                           1.00         1
+   macro avg       1.00      1.00      1.00         1
+weighted avg       1.00      1.00      1.00         1
+
+
+Training Potability Score Regressor with REAL DATA...
+WARNING: Not enough data for regressor training (need at least 3 samples)
+Creating a simple model with available data...
+SUCCESS: Simple Potability Score Regressor trained with REAL DATA!
+   - Samples: 2
+   - Model: Linear Regression (simplified for small dataset)
+
+TRAINING WITH REAL DATA COMPLETE!
+   - Models trained: 2/2
+   - Models saved: potability_classifier_real.pkl, potability_score_regressor_real.pkl
+   - Data source: Your real sensor database
+   - Ready for production!
+
+SUCCESS! Your AI models are trained with REAL DATA!
+To use real data models:
+   1. Update ml_server.py to load 'potability_classifier_real.pkl'
+   2. Update ml_server.py to load 'potability_score_regressor_real.pkl'
+   3. Restart your Python server
+
+Your AI system now learns from your actual sensor data!
+
+Completed at: 2025-10-26 19:21:23
+
+2025-10-26 19:21:23,900 - INFO - Attempting to restart ML server...
